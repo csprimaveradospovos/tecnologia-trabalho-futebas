@@ -1,0 +1,58 @@
+@startuml jogador_api
+header <img src="https://cdn.icon-icons.com/icons2/861/PNG/512/Soccer_icon-icons.com_67819.png">
+footer <U+00A9> Futebas Esporte e Tecnológicas\nAll rights reserved - [[https://futebas.online futebas.online]]
+title <size:20>Jogador_a- Buscar Clube</size>
+skinparam ParticipantPadding 20
+skinparam BoxPadding 10
+autonumber
+box "Plataforma" #afedaf
+  participant Jogador_a
+  participant JogadorAPI
+  participant ClubeAPI
+end box
+
+
+box "Serviços" #fff060
+participant NotificacaoWorker
+end box
+Jogador_a-> JogadorAPI: POST /v1/jogador
+activate JogadorAPI #000000
+rnote right
+    Criar/Atualizar perfil com os atributos do jogador(a)
+    Autenticador BEARER TOKEN
+end note    
+JogadorAPI -> JogadorAPI: buscarClube()
+activate JogadorAPI #ffffff
+JogadorAPI -> ClubeAPI: GET /v1/clube/disponiveis/
+JogadorAPI <-- ClubeAPI: 
+rnote right
+Lista de clubes disponíveis e suas necessidades 
+(jogo, mensalista ou avulso) 
+e preço (pagar ou receber) 
+na região selecionada
+end note
+deactivate JogadorAPI
+JogadorAPI -> JogadorAPI: solicitarEscalacao()
+activate JogadorAPI #ffffff
+JogadorAPI -> ClubeAPI: GET /v1/clube/jogar/
+JogadorAPI <-- ClubeAPI: OK  
+rnote right
+ Notificar o jogador a resposta do clube  ASYNC
+end note
+deactivate JogadorAPI
+deactivate JogadorAPI
+
+ClubeAPI -> NotificacaoWorker: enviarResposta() notificar
+
+activate NotificacaoWorker 
+activate ClubeAPI #0000FF
+ClubeAPI <-- NotificacaoWorker : OK
+Jogador_a <-- NotificacaoWorker: 
+rnote right
+Enviar Para central de notificações
+end note
+deactivate NotificacaoWorker
+deactivate ClubeAPI
+deactivate JogadorAPI
+
+@enduml
