@@ -15,7 +15,7 @@ O objetivo desse repositorio é organizar as aulas e avanço das camaradas e ap�
 - **[Criar](https://docs.github.com/pt/get-started/onboarding/getting-started-with-your-github-account)** uma conta no Github
 - **[Ler](/docs/)** a documentação do projeto
 - **[Seguir](/cronograma/)** o cronograma de leituras semanais
-- **[Montar](/docs/)** um ambiente de trabalho simples e organizado, focado na melhor utilização dos recursos de máquina
+- **[Montar](/docs/README.md)** um ambiente de trabalho simples e organizado, focado na melhor utilização dos recursos de máquina
 - **[Participar](/docs/)** das conversas semanais para acompanhamento (trabalho, estudo, etc...)
 - **[Compartilhar]()**   contascom conteúdo adicional para que camaradas possam aprofundar o aprendizado
 - **[Open-source:]()**  Compartilhar e dinfundir o conhecimento das melhores práticas de software aberto
