@@ -22,7 +22,7 @@ O objetivo desse repositorio é organizar as aulas e avanço das camaradas e ap�
 
 
 ## Proposta de ação
-Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencializar suas capacidades para que possamos superar a precarização do trabalho juntos. </br> Para isso o curso visa preservar o tempo livre de trabalhadoras e trabalhadores e focar nas atuações práticas (dia-a-dia). Essa abordagem prática permitira a experiência submersiva em projetos reais que possibilitarão ingresso no mercado de trabalho e para que juntos possamos aumentar a nossa capacidade de desenvolvimento pessoal atuais. 
+Temos como objetivo organizar intelectualmente a classe trabalhadora e potencializar suas capacidades para que possamos superar a precarização do trabalho juntos. </br> Para isso o curso visa preservar o tempo livre de trabalhadoras e trabalhadores e focar nas atuações práticas (dia-a-dia). Essa abordagem prática permitira a experiência submersiva em projetos reais que possibilitarão ingresso no mercado de trabalho e para que juntos possamos aumentar a nossa capacidade de desenvolvimento pessoal atuais. 
 
 
 ### `Para isso organizamos a seguinte proposta:`
