@@ -17,8 +17,8 @@ O objetivo desse repositorio é organizar as aulas e avanço das camaradas e ap�
 - **[Seguir](/cronograma/)** o cronograma de leituras semanais
 - **[Montar](/docs/)** um ambiente de trabalho simples e organizado, focado na melhor utilização dos recursos de máquina
 - **[Participar](/docs/)** das conversas semanais para acompanhamento (trabalho, estudo, etc...)
-- **[Iremos](udemy.com)**  compartilhar contascom conteúdo adicional para que camaradas possam aprofundar o aprendizado
-- **[Open-source]()**  Compartilhar e dinfundir o conhecimento das melhores práticas de software aberto
+- **[Compartilhar]()**   contascom conteúdo adicional para que camaradas possam aprofundar o aprendizado
+- **[Open-source:]()**  Compartilhar e dinfundir o conhecimento das melhores práticas de software aberto
 
 
 ## Proposta de ação
@@ -28,7 +28,7 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 ### `Para isso organizamos a seguinte proposta:`
 
 - **Programação ao vivo (live code)**
-`Procuramos nos organizar ao menos x horas por semana em dois ou mais encontros para atuar em conjunto na construção do aplicativo. Tudo será gravado e ficará disponivel nos nossos canais de comunicação no ` [Whatsapp]("https://chat.whatsapp.com/B9DWKTSq6JJBNI3fgk73Nn").
+`Procuramos nos organizar ao menos x horas por semana em dois ou mais encontros para atuar em conjunto na construção do aplicativo. Tudo será gravado e ficará disponivel nos nossos canais de comunicação no ` [Whatsapp]("https://chat.whatsapp.com/B9DWKTSq6JJBNI3fgk73Nn")
 </br>
 
 - **Acompanhamento no mercado de trabalho**
@@ -76,4 +76,6 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 
 
 ## Licença
-# manifesto do partido comunista
+
+
+##### [Burgueses e proletário - Manifesto Comunista]("https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap1.htm")
