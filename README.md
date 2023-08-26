@@ -1,9 +1,8 @@
 # Tecnologia-Trabalho-Futebas 
 
-Futebas é um projeto experimental que o Centro Socialista Primavera dos Povos está desenvolvendo para ajudar a introdução 
-camaradas na área de tecnlogia e iniciar  os trabalhadores e trabalhadoras às questões do mundo 
+Futebas é um projeto experimental que o Centro Socialista Primavera dos Povos está desenvolvendo para ajudar à introdução de camaradas na área de tecnlogia e iniciar  os trabalhadores e trabalhadoras às questões do mundo 
 do trabalho. 
-**Nós não temos um certificado, nós temos uma proposta de colaboração mutua onde iremos erguendo uns aos outros para que todos consigam com mérito de seus esforços e colaboração coletiva chegar nos nossos objetivos.
+*Nós não temos um certificado, nós temos uma proposta de colaboração mútua onde iremos erguendo uns aos outros para que todos consigam com mérito de seus esforços e colaboração coletiva chegar nos nossos objetivos.*
 
 
 ![Chaplin Image](https://cdn.goconqr.com/uploads/media/image/12347159/desktop_bdfb79c3-cba6-42c8-b1e4-96d33826c8cb.jpg)
@@ -16,9 +15,10 @@ O objetivo desse repositorio é organizar as aulas e avanço das camaradas e ap�
 - **[Criar](https://docs.github.com/pt/get-started/onboarding/getting-started-with-your-github-account)** uma conta no Github
 - **[Ler](/docs/)** a documentação do projeto
 - **[Seguir](/cronograma/)** o cronograma de leituras semanais
-- **[Montar](/docs/)** um ambiente para trabalho (conversar com outros camaradas para que possam ajudar)
+- **[Montar](/docs/)** um ambiente de trabalho simples e organizado, focado na melhor utilização dos recursos de máquina
 - **[Participar](/docs/)** das conversas semanais para acompanhamento (trabalho, estudo, etc...)
-- **[Iremos](udemy.com)** Iremos compartilhar contascom conteúdo adicional para que camaradas possam aprofundar o aprendizado
+- **[Iremos](udemy.com)**  compartilhar contascom conteúdo adicional para que camaradas possam aprofundar o aprendizado
+- **[Open-source]()**  Compartilhar e dinfundir o conhecimento das melhores práticas de software aberto
 
 
 ## Proposta de ação
@@ -28,7 +28,7 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 ### `Para isso organizamos a seguinte proposta:`
 
 - **Programação ao vivo (live code)**
-`Procuramos nos organizar ao menos x horas por semana em dois ou mais encontros para atuar em conjunto na construção do aplicativo. Tudo será gravado e ficará disponivel nos nossos canais de comunicação no [Whatsapp]("https://chat.whatsapp.com/B9DWKTSq6JJBNI3fgk73Nn").`
+`Procuramos nos organizar ao menos x horas por semana em dois ou mais encontros para atuar em conjunto na construção do aplicativo. Tudo será gravado e ficará disponivel nos nossos canais de comunicação no ` [Whatsapp]("https://chat.whatsapp.com/B9DWKTSq6JJBNI3fgk73Nn").
 </br>
 
 - **Acompanhamento no mercado de trabalho**
@@ -43,11 +43,9 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 `Encontro recreativo para que possamos compartilharr experiência juntos. `
 </br>
 
-- **Programação ao vivo (live code)**
-`Procuramos nos organizar ao menos 3 horas por semana em dois ou mais encontros para atuar em conjunto na construção do aplicativo. `
-</br>
 
-### Todas as dúvidas podem ser tiiradas pelo whatsapp
+
+### Todas as dúvidas podem ser solucionadas pelo Whatsapp
 
 <a href="https://chat.whatsapp.com/B9DWKTSq6JJBNI3fgk73Nn">
 <img src="https://criar.wa.link/static/WhatsApp-0e878a0fa68c61b06e781cee2e6bc71f.svg" title="yuval-hazaz" width="50" height="50">
@@ -66,7 +64,7 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 
 
 
-# QUEM CONSTRÓI O MUNDO COM SUAS MÃOS MERECE ELE POR COMPLETO.
+# QUEM CONSTRÓI O MUNDO COM SUAS MÃOS O MERECE POR COMPLETO.
 
 [//]: contributor-faces
 <a href="https://github.com/guineitor"><img src="https://avatars.githubusercontent.com/u/5486512?v=4" title="yuval-hazaz" width="50" height="50"></a>
@@ -78,3 +76,4 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 
 
 ## Licença
+# manifesto do partido comunista
