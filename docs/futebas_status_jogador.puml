@@ -8,14 +8,13 @@ autonumber
 box "Plataforma" #afedaf
   participant Jogador_a
   participant JogadorAPI
-  participant ClubeAPI
 end box
 
 
 box "Serviços" #fff060
 participant NotificacaoWorker
 end box
-Jogador_a-> JogadorAPI: POST /v1/jogador
+Jogador_a-> JogadorAPI: POST /v1/jogador/perfil
 activate JogadorAPI #000000
 rnote right
     Criar perfil com os atributos do jogador(a)
