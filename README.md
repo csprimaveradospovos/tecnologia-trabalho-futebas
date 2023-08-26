@@ -2,7 +2,8 @@
 
 Futebas é um projeto experimental que o Centro Socialista Primavera dos Povos está desenvolvendo para ajudar a introdução 
 camaradas na área de tecnlogia e iniciar  os trabalhadores e trabalhadoras às questões do mundo 
-do trabalho.
+do trabalho. 
+**Nós não temos um certificado, nós temos uma proposta de colaboração mutua onde iremos erguendo uns aos outros para que todos consigam com mérito de seus esforços e colaboração coletiva chegar nos nossos objetivos.
 
 
 ![Chaplin Image](https://cdn.goconqr.com/uploads/media/image/12347159/desktop_bdfb79c3-cba6-42c8-b1e4-96d33826c8cb.jpg)
@@ -21,7 +22,9 @@ O objetivo desse repositorio é organizar as aulas e avanço das camaradas e ap�
 
 
 ## Proposta de ação
-Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencializar suas capacidades para que possamos superar a precarização do trabalho juntos. </br> Para isso o curso visa preservar o tempo livre de trabalhadoras e trabalhadores e focar nas atuações práticas (dia-a-dia). Essa abordagem prática permitira a experiência submersiva em projetos reais que possibilitarão ingresso no mercado de trabalho e para que juntos possamos aumentar a nossa capacidade de desenvolvimento pessoal atuais.
+Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencializar suas capacidades para que possamos superar a precarização do trabalho juntos. </br> Para isso o curso visa preservar o tempo livre de trabalhadoras e trabalhadores e focar nas atuações práticas (dia-a-dia). Essa abordagem prática permitira a experiência submersiva em projetos reais que possibilitarão ingresso no mercado de trabalho e para que juntos possamos aumentar a nossa capacidade de desenvolvimento pessoal atuais. 
+
+
 ### `Para isso organizamos a seguinte proposta:`
 
 - **Programação ao vivo (live code)**
@@ -63,12 +66,15 @@ Temos como objeetivo organizar intelectualmente a classe trabalhadora e potencia
 
 
 
-
-
 # QUEM CONSTRÓI O MUNDO COM SUAS MÃOS MERECE ELE POR COMPLETO.
 
 [//]: contributor-faces
 <a href="https://github.com/guineitor"><img src="https://avatars.githubusercontent.com/u/5486512?v=4" title="yuval-hazaz" width="50" height="50"></a>
 <a href="https://github.com/gitzacca"><img src="https://avatars.githubusercontent.com/u/5587184?v=4" title="yuval-hazaz" width="50" height="50"></a>
+
+[//]: contributor-faces
+
+
+
 
 ## Licença
