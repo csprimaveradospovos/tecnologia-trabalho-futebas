@@ -78,4 +78,4 @@ Temos como objetivo organizar intelectualmente a classe trabalhadora e potencial
 ## Licença
 
 
-##### [Burgueses e proletário - Manifesto Comunista]("https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap1.htm")
+<b>[Burgueses e proletário - Manifesto Comunista]("https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap1.htm")</b>
