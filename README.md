@@ -67,9 +67,9 @@ Temos como objetivo organizar intelectualmente a classe trabalhadora e potencial
 # QUEM CONSTRÓI O MUNDO COM SUAS MÃOS O MERECE POR COMPLETO.
 
 [//]: contributor-faces
-<a href="https://github.com/tupanferla"><img src="https://avatars.githubusercontent.com/u/141886725?v=4" title="yuval-hazaz" width="50" height="50"></a> 
-<a href="https://github.com/guineitor"><img src="https://avatars.githubusercontent.com/u/5486512?v=4" title="yuval-hazaz" width="50" height="50"></a>
-<a href="https://github.com/gitzacca"><img src="https://avatars.githubusercontent.com/u/5587184?v=4" title="yuval-hazaz" width="50" height="50"></a>
+<a href="https://github.com/tupanferla"><img src="https://avatars.githubusercontent.com/u/141886725?v=4" title="tupanferla" width="50" height="50"></a> 
+<a href="https://github.com/guineitor"><img src="https://avatars.githubusercontent.com/u/5486512?v=4" title="guineitor" width="50" height="50"></a>
+<a href="https://github.com/gitzacca"><img src="https://avatars.githubusercontent.com/u/5587184?v=4" title="gitzacca" width="50" height="50"></a>
 
 [//]: contributor-faces
 
