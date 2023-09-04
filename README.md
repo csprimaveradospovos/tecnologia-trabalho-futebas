@@ -6,7 +6,7 @@ do trabalho.
 
 
 ![Chaplin Image](https://cdn.goconqr.com/uploads/media/image/12347159/desktop_bdfb79c3-cba6-42c8-b1e4-96d33826c8cb.jpg)
-*Os tempos Modernos - Charles Chaplin.*
+*Os Tempos Modernos - Charles Chaplin.*
 
 O objetivo desse repositorio é organizar as aulas e avanço das camaradas e após isso criar um produto para distribuição e sustentação de nossos camaradas e projetos do CSPP.
 
@@ -70,7 +70,7 @@ Temos como objetivo organizar intelectualmente a classe trabalhadora e potencial
 <a href="https://github.com/tupanferla"><img src="https://avatars.githubusercontent.com/u/141886725?v=4" title="tupanferla" width="50" height="50"></a> 
 <a href="https://github.com/guineitor"><img src="https://avatars.githubusercontent.com/u/5486512?v=4" title="guineitor" width="50" height="50"></a>
 <a href="https://github.com/gitzacca"><img src="https://avatars.githubusercontent.com/u/5587184?v=4" title="gitzacca" width="50" height="50"></a>
-
+<a href="https://github.com/leoserafin"><img src="https://avatars.githubusercontent.com/u/143974930?v=4" title="leoserafin" width="50" height="50"></a>
 [//]: contributor-faces
 
 
