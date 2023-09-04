@@ -71,6 +71,7 @@ Temos como objetivo organizar intelectualmente a classe trabalhadora e potencial
 <a href="https://github.com/guineitor"><img src="https://avatars.githubusercontent.com/u/5486512?v=4" title="guineitor" width="50" height="50"></a>
 <a href="https://github.com/gitzacca"><img src="https://avatars.githubusercontent.com/u/5587184?v=4" title="gitzacca" width="50" height="50"></a>
 <a href="https://github.com/leoserafin"><img src="https://avatars.githubusercontent.com/u/143974930?v=4" title="leoserafin" width="50" height="50"></a>
+
 [//]: contributor-faces
 
 
