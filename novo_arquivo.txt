@@ -1,1 +1,3 @@
 conteúdo do arquivo novo
+
+alteração feita em outro computador
